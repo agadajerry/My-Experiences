@@ -14,6 +14,8 @@ I’m am a Full Stack Web engineer with 2+ years of experience developing web ap
 - Reactjs
 - HTML
 - CSS
+- Core PHP
+- Core Java
 - Bootstrap
 - Mongodb
 - Mysql

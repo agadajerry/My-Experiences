@@ -22,7 +22,7 @@ I’m am a Full Stack Web engineer with 3+ years of experience developing web ap
 - postgres
 
 Link
-findjerry.vercel.app
+https://www.findjerry.vercel.app
 
 
 

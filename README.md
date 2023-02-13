@@ -23,7 +23,7 @@ I’m am a Full Stack Web engineer with 3+ years of experience developing web ap
 
 Link
 <code>
- <a href="http://www.findjerry.vercel.app">Find me here</a>
+ <a href="https://findjerry.vercel.app/">Find me here</a>
 </code>
 
 

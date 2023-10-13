@@ -12,12 +12,14 @@ I’m am a Full Stack Web engineer with 4+ years of experience developing web ap
 - Nodejs 
 - Express
 - Reactjs
+- React native
 - Nextjs
 - Nestjs
 - HTML
 - CSS
 - Java
 - SpringBoot
+- Native Android
 - TypeOrm
 - Bootstrap
 - Mongodb

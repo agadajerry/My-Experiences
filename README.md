@@ -1,7 +1,7 @@
 
 # About Me
 
-I’m am a Full Stack Web engineer with 3+ years of experience developing web applications using different technologies (HTML5, CSS3, bootstrap, javascript/typescript, react,  Nodejs, Expressjs, Mangodb, ,postgres, Mysql etc.
+I’m am a Full Stack Web engineer with 4+ years of experience developing web applications using different technologies (HTML5, CSS3, bootstrap, javascript/typescript, react, Java,  Nodejs, Expressjs, Mangodb, ,postgres, Mysql etc.
 
 
  I have built a number of multiple amazing projects that you can find here.
@@ -12,10 +12,13 @@ I’m am a Full Stack Web engineer with 3+ years of experience developing web ap
 - Nodejs 
 - Express
 - Reactjs
+- Nextjs
+- Nestjs
 - HTML
 - CSS
-- Core PHP
-- Core Java
+- Java
+- SpringBoot
+- TypeOrm
 - Bootstrap
 - Mongodb
 - Mysql
